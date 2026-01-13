@@ -1,0 +1,1 @@
+My macropad is gonna be the arrow keys because I have a 60% keyboard so it's not practical. There is a knob to control the volume and an oled screen to display the volume and the music which is currently playing
