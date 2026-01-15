@@ -4,7 +4,7 @@ Macropalexis is a 4 arrow key with a rotary encoder, an OLED Display. And uses Q
 
 ## Features:
 - 128x32 OLED Display
-- EC11 Rotary encoder for whatever you want
+- EC11 Rotary encoder to control the volume
 - 4 Keys
 
 ## CAD Model:
