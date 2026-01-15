@@ -12,8 +12,8 @@ Everything fits together using 4 M3 screws and heatset inserts.
 
 It has 2 separate printed pieces. The base where the PCB sits, and the top cover.
 
-<img src=assets/cad.png alt="Schematic" width="500"/>
-
+<img src=assets/Final_product_with_top.png alt="Schematic" width="500"/>
+<img src=assets/Final_product_without_top.png alt="Schematic" width="500"/>
 
 
 
