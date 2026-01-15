@@ -10,26 +10,28 @@ Macropalexis is a 4 arrow key with a rotary encoder, an OLED Display. And uses Q
 ## CAD Model:
 Everything fits together using 4 M3 screws and heatset inserts.
 
-It has 2 separate printed pieces. The angle, the base where the PCB sits, and the top cover.
+It has 2 separate printed pieces. The base where the PCB sits, and the top cover.
 
 <img src=assets/cad.png alt="Schematic" width="500"/>
 
-Made in Fusion360.
+
 
 
 ## PCB
 Here's my PCB! It was made in KiCad.
 
-Schematic
+Schematic :
+
 <img src=assets/schematic.png alt="Schematic" width="300"/>
 
-PCB
+PCB :
+
 <img src=assets/pcb.png alt="Schematic" width="300"/>
 
 ## Firmware Overview
 This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
 
-- the rotary encoder changes volume. press to mute
+- the rotary encoder changes volume. press to pause/play
 - The 4 keys currently act as arrow key
 - The OLED will display the volume and the music
 
